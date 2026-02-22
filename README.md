@@ -60,4 +60,4 @@ If this privacy policy is updated, the changes will be reflected in this documen
 
 ## Contact
 
-If you have questions about this privacy policy, please open an issue on the [DBine GitHub repository](https://github.com/nicobrinkkemper/DBine).
+If you have questions about this privacy policy, please open an issue on the [DBine GitHub repository](https://github.com/javisantos/DBine).
